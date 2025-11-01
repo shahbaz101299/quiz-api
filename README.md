@@ -86,8 +86,8 @@ A fully functional Quiz API built using Spring Boot and MySQL. It provides endpo
 👤  Developer Info
 
 • Name: Shahbaz Shaikh  
-• GitHub: https://github.com/shahabaj101299  
-• LinkedIn: https://www.linkedin.com/in/shahabaj101299/
+• GitHub: https://github.com/shahbaz101299  
+• LinkedIn: https://www.linkedin.com/in/shahbaz101299/
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
