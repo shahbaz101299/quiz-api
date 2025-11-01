@@ -29,7 +29,7 @@ A fully functional Quiz API built using Spring Boot and MySQL. It provides endpo
 🔧  Setup Instructions
 
 ➊  Clone the repository  
-  git clone https://github.com/shahabaj101299/quiz-api  
+  git clone https://github.com/shahbaz101299/quiz-api  
   
 
 ➋  Create the database in MySQL  
